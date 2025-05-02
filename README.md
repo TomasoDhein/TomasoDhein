@@ -1,4 +1,4 @@
-## Olá! Eu sou o Tomaso Dhein
+## Olá! Eu sou o Tomaso Dhein e esse é meu perfil!
 
 ##
 
