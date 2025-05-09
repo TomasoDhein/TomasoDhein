@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Tomaso Dhein e esse é meu perfil!
 
-![Tomaso Dhein's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasodhein&show_icons=true&theme=github)
+![Tomaso Dhein's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasodhein&show_icons=true&theme=transparent)
 
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasodhein&layout=compact&theme=github)
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasodhein&layout=compact&theme=transparent)
 
 ## DESIGN
 <div style="display: inline_block"><br>
