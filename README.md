@@ -1,4 +1,4 @@
-## Olá! Eu sou o Tomaso Dhein e esse é meu perfil!
+## Hey! I'm Tomaso Dhein and this is my profile!
 
 ![Tomaso Dhein's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasodhein&show_icons=true&theme=transparent)
 
@@ -19,8 +19,13 @@
 
 ## BACK-END
 <div style="display: inline_block"><br>
-  <img align="center" alt="Tomaso-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img align="center" alt="Tomaso-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img align="center" alt="Tomaso-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+</div><br>
+
+## DATABASE
+<div style="display: inline_block"><br>
+  <img align="center" alt="Tomaso-MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
 </div><br>
 
   ##
