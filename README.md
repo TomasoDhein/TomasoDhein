@@ -28,6 +28,14 @@
   <img align="center" alt="Tomaso-MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
 </div><br>
 
+## IDE's
+<div style="display: inline_block"><br>
+  <img align="center" alt="Tomaso-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  <img align="center" alt="Tomaso-NetBeans" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"/>
+  <img align="center" alt="Tomaso-AndroidStudio" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg"/>
+
+</div><br>
+
   ##
  
 <div> 
