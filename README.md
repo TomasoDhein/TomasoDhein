@@ -1,9 +1,5 @@
 ## Hey! I'm Tomaso Dhein and this is my profile!
 
-![Tomaso Dhein's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasodhein&show_icons=true&theme=transparent)
-
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasodhein&layout=compact&theme=transparent)
-
 ## UI DESIGN
 <div style="display: inline_block"><br>
     <img align="center" alt="Tomaso-XD" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg">
